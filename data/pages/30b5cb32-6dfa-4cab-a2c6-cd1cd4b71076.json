@@ -1,0 +1,110 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the decades after World War II, the world became increasingly interconnected, and more and more economic activity crossed international borders. Between 1950 and 2024, the total value of global trade"
+        },
+        {
+          "type": "link",
+          "url": "https://www.wto.org/english/res_e/statis_e/trade_evolution_e/evolution_trade_wto_e.htm",
+          "children": [
+            {
+              "text": " increased by 4300%"
+            }
+          ]
+        },
+        {
+          "text": " (adjusted for inflation). In 1950, the value of imports to the United States represented 3.9% of the country’s gross domestic product (a measure of a country’s overall economic production). By 2024, that"
+        },
+        {
+          "type": "link",
+          "url": "https://fred.stlouisfed.org/series/B021RE1A156NBEA",
+          "children": [
+            {
+              "text": " proportion had more than tripled to 14.0%"
+            }
+          ]
+        },
+        {
+          "text": ". U.S. exports also increased significantly during this time period. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These developments were driven, in significant part, by technological change. Improved communication (via satellites, and eventually the internet) made it easy to conduct business and orchestrate complex logistical endeavors over long distances. Advances in maritime technology and the transformative adoption of the rectangular shipping container allowed for cheaper, quicker ocean transportation of massive amounts of goods. But globalization was also a product of policy. In the postwar period, the U.S. led a charge towards free trade, a political approach in which governments lowered or removed various barriers to international commerce (such as tariffs and import quotas). Advocates believed that by opening trade between nations, a country could gain a market for their exports while benefiting from the importation of desirable goods from other countries."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Many Americans, including most leading politicians, celebrated global trade as a key component of American prosperity in the 1950s and 1960s. But by the 1970s, the growth of imports into the U.S. led to social and political challenges. Companies in industrialized countries like Japan and Germany increasingly outcompeted American businesses in the automobile, steel and home electronics industries. Later in the 20th century, the import challenge came from developing countries with lower labor costs.  Firms in these countries produced manufactured goods such as toys and clothing at lower prices than American companies. While consumers benefited from the opportunity to buy cheaper or more desirable goods from other countries, certain American industries suffered, leading to job layoffs and economic hardship. In particular, communities that relied heavily on industrial jobs struggled when local companies lost to foreign companies (or when those local companies moved operations out of the country to take advantage of lower labor costs)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These economic changes led to political disagreements about the merits of global trade and the desirability of free trade policies. Critics pointed to lost jobs, stagnating working-class wages, and crumbling communities. Defenders argued that global trade optimized overall economic growth, provided export opportunities for American firms, and benefited consumers by giving them the opportunity to buy cheaper goods. Resulting political debates forced Americans to grapple with difficult questions: in the balance, did the benefits of global trade outweigh the costs? Should the U.S. government establish trade restrictions on imported goods to protect American businesses and workers? To the extent some Americans were harmed by global competition, what responsibilities did the government have to those communities? Disagreements over these questions led to fierce fights over trade policy and divided (and ultimately reshaped) political coalitions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Introduction and Context",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction-and-context",
+  "created_at": "2026-01-07T18:52:03.685Z",
+  "created_by": "rmiller78",
+  "updated_at": "2026-01-07T18:52:03.685Z",
+  "updated_by": "rmiller78"
+}
