@@ -35,11 +35,12 @@
   "created_by": "rmiller78",
   "title": "The MacNeil/Lehrer Report; Labor Unions On Free Trade Policies",
   "slug": "the-macneillehrer-report-labor-unions-on-fr",
-  "updated_at": "2026-01-07T20:56:31.089Z",
+  "updated_at": "2026-01-07T20:57:07.778Z",
   "updated_by": "rmiller78",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "aad6fe8b-4530-4f12-92c8-3988e1f5bd3c"
-  }
+  },
+  "parent": "042ce406-efd7-46a0-94a1-e8a7c107e6a3"
 }
