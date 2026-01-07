@@ -23,6 +23,48 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "58bd82ed-786b-420c-a993-5861f849d83a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 199,
+      "end": 438,
+      "file": "f248786b-ae3f-4524-8bf4-1b4f8fae947b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Postwar Optimism about the Economic Benefits of International Trade (1965)",
@@ -34,6 +76,6 @@
   "slug": "postwar-optimism-about-the-economic-benefits",
   "created_at": "2026-01-07T18:54:02.994Z",
   "created_by": "rmiller78",
-  "updated_at": "2026-01-07T18:54:02.994Z",
+  "updated_at": "2026-01-07T19:56:35.296Z",
   "updated_by": "rmiller78"
 }
