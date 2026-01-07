@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":true},"users":[{"login_name":"rmiller78","avatar_url":"https://avatars.githubusercontent.com/u/168940915?v=4","admin":true}],"project":{"github_org":"rmiller78","is_private":false,"title":"Globalization and the Debate Over Free Trade","description":"Annotated videos exploring how, in the decades after World War II, the world became increasingly interconnected and economic activity more frequently crossed international borders.","language":"en","slug":"globalization","creator":"rmiller78","authors":"Ben Leff","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2026-01-07T18:40:06.329Z","updated_at":"2026-01-07T20:25:28.706Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"839d4fb0-e41b-44f5-8d17-2f099250535b":{"content":[],"created_at":"2026-01-07T18:40:06.332Z","created_by":"rmiller78","title":"Globalization and the Debate over Free Trade","updated_at":"2026-01-07T18:40:06.332Z","updated_by":"rmiller78","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["839d4fb0-e41b-44f5-8d17-2f099250535b"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": true
+  },
+  "users": [
+    {
+      "login_name": "rmiller78",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168940915?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "rmiller78",
+    "is_private": false,
+    "title": "Globalization and the Debate Over Free Trade",
+    "description": "Annotated videos exploring how, in the decades after World War II, the world became increasingly interconnected and economic activity more frequently crossed international borders.",
+    "language": "en",
+    "slug": "globalization",
+    "creator": "rmiller78",
+    "authors": "Ben Leff",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-01-07T18:40:06.329Z",
+    "updated_at": "2026-01-07T20:26:40.827Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "839d4fb0-e41b-44f5-8d17-2f099250535b": {
+      "content": [],
+      "created_at": "2026-01-07T18:40:06.332Z",
+      "created_by": "rmiller78",
+      "title": "Globalization and the Debate over Free Trade",
+      "updated_at": "2026-01-07T18:40:06.332Z",
+      "updated_by": "rmiller78",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "839d4fb0-e41b-44f5-8d17-2f099250535b"
+  ]
+}
