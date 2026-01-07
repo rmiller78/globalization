@@ -35,11 +35,12 @@
   "created_by": "rmiller78",
   "title": "Great Decisions 1965; 3; Trade, Food and Dollars: What Policies for the US?",
   "slug": "great-decisions-1965-3-trade-food-and-doll",
-  "updated_at": "2026-01-07T19:54:56.418Z",
+  "updated_at": "2026-01-07T19:55:12.512Z",
   "updated_by": "rmiller78",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "58bd82ed-786b-420c-a993-5861f849d83a"
-  }
+  },
+  "parent": "9dcd9ed7-59d0-47f4-9998-8b605630d457"
 }
