@@ -31,6 +31,40 @@
           "text": ", “nearly 80% of toys sold in the U.S. are sourced from China.” "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "39a66ae5-0cd4-4666-9523-eec3559eb321",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 291,
+      "end": 592,
+      "file": "b0abbaec-ad0c-40fe-9bd4-9bd428bd0425",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Ocean Trade and the Explosion of Global Commerce (1994)",
@@ -42,6 +76,6 @@
   "slug": "ocean-trade-and-the-explosion-of-global-comme",
   "created_at": "2026-01-08T14:55:06.770Z",
   "created_by": "rmiller78",
-  "updated_at": "2026-01-08T14:55:06.770Z",
+  "updated_at": "2026-01-08T16:08:51.664Z",
   "updated_by": "rmiller78"
 }
