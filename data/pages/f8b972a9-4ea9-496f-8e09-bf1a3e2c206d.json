@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "91765c6a-9553-4a76-ad4b-5d4d81377d1b",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-01-08T16:21:21.745Z",
   "created_by": "rmiller78",
   "title": "World Trade: The Seattle Summit",
   "slug": "world-trade-the-seattle-summit",
-  "updated_at": "2026-01-08T16:22:00.997Z",
+  "updated_at": "2026-01-08T16:22:15.752Z",
   "updated_by": "rmiller78",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "91765c6a-9553-4a76-ad4b-5d4d81377d1b"
   },
