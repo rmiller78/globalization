@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1ca38fbb-7cfa-495f-9982-8a18fab1a98f": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-507-nk3610wm67/download",
+      "duration": 3858,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-08T17:00:52.285Z",
+  "created_by": "rmiller78",
+  "label": "The NewsHour with Jim Lehrer",
+  "updated_at": "2026-01-08T17:00:52.285Z",
+  "updated_by": "rmiller78",
+  "rights_statement": ""
+}

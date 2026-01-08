@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-08T17:00:53.048Z",
+  "created_by": "rmiller78",
+  "title": "The NewsHour with Jim Lehrer",
+  "slug": "the-newshour-with-jim-lehrer-2",
+  "updated_at": "2026-01-08T17:00:53.048Z",
+  "updated_by": "rmiller78",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d72bd88a-c368-4b17-b220-83e8979fac65"
+  }
+}
