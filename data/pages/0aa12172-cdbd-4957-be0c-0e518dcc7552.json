@@ -19,6 +19,56 @@
           "text": " in the decade after the agreement was enacted."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "58bd82ed-786b-420c-a993-5861f849d83a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 536,
+      "end": 712,
+      "file": "f248786b-ae3f-4524-8bf4-1b4f8fae947b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "NAFTA Promotes US Trade with Mexico and Canada (1995)",
@@ -30,6 +80,6 @@
   "slug": "nafta-promotes-us-trade-with-mexico-and-canad",
   "created_at": "2026-01-08T14:33:28.647Z",
   "created_by": "rmiller78",
-  "updated_at": "2026-01-08T14:33:28.647Z",
+  "updated_at": "2026-01-08T14:37:24.519Z",
   "updated_by": "rmiller78"
 }
