@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "b0abbaec-ad0c-40fe-9bd4-9bd428bd0425": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-394-41mgqsdg/download",
+      "duration": 3302,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-08T14:55:43.301Z",
+  "created_by": "rmiller78",
+  "label": "Seapower; 103; \"Trade Winds, Trade Wars\"",
+  "updated_at": "2026-01-08T14:55:43.301Z",
+  "updated_by": "rmiller78",
+  "rights_statement": ""
+}
