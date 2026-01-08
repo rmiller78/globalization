@@ -15,6 +15,40 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "91765c6a-9553-4a76-ad4b-5d4d81377d1b",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 2200,
+      "end": 2589,
+      "file": "22bd3646-d355-43a7-a3cf-a87eebe4b5fe",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Organized Labor’s Critique of Globalization and Free Trade (1999)",
@@ -26,6 +60,6 @@
   "slug": "organized-labors-critique-of-globalization-a",
   "created_at": "2026-01-08T16:19:25.170Z",
   "created_by": "rmiller78",
-  "updated_at": "2026-01-08T16:19:25.170Z",
+  "updated_at": "2026-01-08T16:29:15.303Z",
   "updated_by": "rmiller78"
 }
