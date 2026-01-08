@@ -4,11 +4,12 @@
   "created_by": "rmiller78",
   "title": "Seapower; 103; \"Trade Winds, Trade Wars\"",
   "slug": "seapower-103-trade-winds-trade-wars",
-  "updated_at": "2026-01-08T14:55:44.057Z",
+  "updated_at": "2026-01-08T14:56:34.893Z",
   "updated_by": "rmiller78",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "39a66ae5-0cd4-4666-9523-eec3559eb321"
-  }
+  },
+  "parent": "dd20be4d-6168-4f0f-9258-137b7177adc2"
 }
