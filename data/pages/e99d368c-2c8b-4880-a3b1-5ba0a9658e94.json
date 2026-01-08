@@ -4,12 +4,12 @@
   "created_by": "rmiller78",
   "title": "The MacNeil/Lehrer NewsHour",
   "slug": "the-macneillehrer-newshour",
-  "updated_at": "2026-01-08T14:35:59.236Z",
+  "updated_at": "2026-01-08T14:36:14.866Z",
   "updated_by": "rmiller78",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "9d2a8f07-0bd0-49ae-9d59-5fbe3f70f13a"
   },
-  "parent": "0d4d24ae-82c5-4763-85b2-2889bf792623"
+  "parent": "0aa12172-cdbd-4957-be0c-0e518dcc7552"
 }
