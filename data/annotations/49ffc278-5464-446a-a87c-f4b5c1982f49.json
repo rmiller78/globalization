@@ -38,6 +38,22 @@
       ],
       "tags": [],
       "uuid": "a5934ab9-8f61-482f-8948-fb58071ba975"
+    },
+    {
+      "start_time": 296,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "World War II was indeed devastating on the economies of Europe. As referenced in the clip, buildings and factories were destroyed, agricultural economies had been devastated, and governments were deeply in debt.  Many countries also experienced high levels of inflation after the war ended. In this context, the US enacted the Marshall Plan, a foreign aid program that provided over $13 Billion (in 1948 dollars) to facilitate the economic recovery of dozens of countries, including France, West Germany, and the United Kingdom.  The effort had genuine humanitarian goals, but also was designed to serve the US economic and political interests.  If the Marshall Plan helped European economies get back on their feet, then those countries could become markets for US exports. Additionally, historians have argued that the Marshall Plan served US Cold War goals. Communist parties were gaining ground in countries like France and Italy, and it was thought that a struggling economy was fertile ground for a Communist takeover.  Thus, stimulating the growth of capitalist economies also served US foreign policy goals."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4521540e-8263-45bf-b87e-a1b468840788"
     }
   ],
   "set": "Default",
