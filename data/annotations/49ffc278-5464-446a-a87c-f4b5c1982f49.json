@@ -15,6 +15,29 @@
       ],
       "tags": [],
       "uuid": "62e0f883-3c76-4d8e-9a26-a1b9ea61f59b"
+    },
+    {
+      "start_time": 213,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hilsman discusses the crucial economics concept of "
+            },
+            {
+              "text": "comparative advantage",
+              "bold": true
+            },
+            {
+              "text": " to explain the overall economic benefit of international trade. Hilsman briefly uses the example of US and West German cars."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a5934ab9-8f61-482f-8948-fb58071ba975"
     }
   ],
   "set": "Default",
