@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 190,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThe speaker is Robert Hilsman, a former US Assistant Secretary of State under the Kennedy and Johnson Administrations.\n\n\n\n \n \n\n  The speaker is Robert Hilsman, a former US\n  Assistant Secretary of State under the Kennedy and Johnson Administrations\n\n \n\n\n\n\n\n\n\n\n\n\n \n \n\n  The speaker is Robert Hilsman, a former US\n  Assistant Secretary of State under the Kennedy and Johnson Administrations\n\n \n\n\n\n\n\n\n\n\n\n\n \n \n\n  The speaker is Robert Hilsman, a former US\n  Assistant Secretary of State under the Kennedy and Johnson Administrations\n\n \n\n\n\n\n\n\n\n\n\n\n \n \n\n  The speaker is Robert Hilsman, a former US\n  Assistant Secretary of State under the Kennedy and Johnson Administrations\n\n \n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62e0f883-3c76-4d8e-9a26-a1b9ea61f59b"
+    }
+  ],
   "set": "Default",
   "event_id": "58bd82ed-786b-420c-a993-5861f849d83a",
   "source_id": "f248786b-ae3f-4524-8bf4-1b4f8fae947b"
