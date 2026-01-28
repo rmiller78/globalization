@@ -47,6 +47,22 @@
       ],
       "tags": [],
       "uuid": "b1ed3ffc-4bcc-493f-b560-da663744c6f4"
+    },
+    {
+      "start_time": 322,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This excerpt associates the \"miracle of economic recovery\" in Europe to global trade. The US played a central role in building a global economic order that facilitated this international commerce.  In 1944 at a United Nations meeting at Bretton Woods, New Hampshire, the US and 43 other countries established an agreement for managing international monetary exchange and established the International Monetary Fund as an institution to monitor international economic relations.  The General Agreement of Tariffs and Trade was signed in 1947 with the purpose of achieving \"substantial reduction of tariffs and other trade barriers and the elimination of preferences, on a reciprocal and mutually advantageous basis.”"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f96d910-90c9-46ac-8f89-9f73849e32f4"
     }
   ],
   "set": "Default",
