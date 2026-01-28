@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the aftermath of World War II, the ascendant United States played a central role in creating an economic order built on encouraging international trade. While tariffs to protect domestic manufacturing had been the norm for decades, mid-century economists argued that reduction of trade barriers would promote economic prosperity for all involved. The General Agreement of Tariffs and Trade was signed in 1947 with the purpose of achieving \"substantial reduction of tariffs and other trade barriers and the elimination of preferences, on a reciprocal and mutually advantageous basis.” The excerpt, from a 1965 news series entitled Great Decisions, largely embodies this optimism about international trade. At the outset, former US Asst. Secretary of State Roger Hilsman cites the concept of comparative advantage while arguing for the long-term benefits of global trade. The succeeding portion of the clip channels the view of international commerce that prevailed among Western leaders in the postwar era : that international trade helped create a “miracle of economic recovery” for countries recently devastated by World War II."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5e314699-4c67-493d-b13a-fe110513af95",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Postwar Optimism about the Economic Benefits of International Trade (1965)",
+  "parent": "30b5cb32-6dfa-4cab-a2c6-cd1cd4b71076",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "postwar-optimism-about-the-economic-benefits",
+  "created_at": "2026-01-28T18:25:45.725Z",
+  "created_by": "rmiller78",
+  "updated_at": "2026-01-28T18:25:45.725Z",
+  "updated_by": "rmiller78"
+}
