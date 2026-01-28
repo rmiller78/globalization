@@ -86,6 +86,22 @@
       ],
       "tags": [],
       "uuid": "b09eaceb-fe3b-4fd8-b939-a644bcdce5ac"
+    },
+    {
+      "start_time": 401,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section discusses the creation of a \"Common Market\" forged between a group of European nations.  This zone of free trade and economic integration between European states ultimately grew and evolved into the European Union."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f0e986fb-55fe-4157-bec0-331b7eeabe2c"
     }
   ],
   "set": "Default",
