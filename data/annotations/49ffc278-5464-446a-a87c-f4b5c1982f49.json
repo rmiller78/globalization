@@ -70,6 +70,22 @@
       ],
       "tags": [],
       "uuid": "fd391c6d-d777-475c-9345-06c6c9bf38e8"
+    },
+    {
+      "start_time": 344,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notice the way the clip makes a clear case that global trade benefits the United States, particularly how Americans can gain from exporting to other countries."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b09eaceb-fe3b-4fd8-b939-a644bcdce5ac"
     }
   ],
   "set": "Default",
