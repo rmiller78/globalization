@@ -17,21 +17,6 @@
       ]
     },
     {
-      "uuid": "1c040cea-6d57-42b8-b061-838cb1d7993d",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -83,6 +68,6 @@
   "slug": "the-growing-threat-of-imported-goods-in-the",
   "created_at": "2026-01-07T20:54:12.137Z",
   "created_by": "rmiller78",
-  "updated_at": "2026-03-06T20:11:24.355Z",
+  "updated_at": "2026-03-06T20:30:21.758Z",
   "updated_by": "rmiller78"
 }
